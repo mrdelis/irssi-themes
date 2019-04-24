@@ -1,6 +1,3 @@
-# HELLFIRE theme for irssi
-# by Anzuhan <anzuhan@ihme.org> Anzuhan@IRCNet @QuakeNet @IhmeNet 
-
 replaces = { "=" = "%w$0-%n"; };
 
 abstracts = {
