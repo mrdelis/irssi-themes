@@ -1,7 +1,3 @@
-# "Bluu" Theme By: HiFi
-# Visit: http://poksi.net/ 
-#############################################################################
-
 # default foreground color (%N) - -1 is the "default terminal color"
 default_color = "-1";
 
